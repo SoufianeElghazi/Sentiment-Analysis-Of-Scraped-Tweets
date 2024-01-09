@@ -1,0 +1,9 @@
+numpy
+pandas
+seaborn
+nltk
+matplotlib
+re
+textblob
+WordCloud
+snscrape
